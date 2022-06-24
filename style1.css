@@ -457,9 +457,8 @@ h1{
     header{
         background: url(./images/mobile/image-header.jpg);
         background-repeat: no-repeat;
-		background-size: 100%;
-		background-attachment: fixed;
-        position: relative;
+		background-size: cover;
+		background-position: center;
         overflow-x: hidden;
         height:700px;
         width: 100%;
